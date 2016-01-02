@@ -1,2 +1,2 @@
-# angular-micro-faker
-It easier to create tests data objects.
+# angular-microfaker
+It easier to create test data objects.
